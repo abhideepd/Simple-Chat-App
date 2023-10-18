@@ -1,0 +1,6 @@
+
+T
+java:S2629"7Use the built-in formatting to construct this argument.(ô¯ßÚ8¿€×ñ³1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ìþd8À€×ñ³1
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ô¯ßÚ8Ê€×ñ³1
