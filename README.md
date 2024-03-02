@@ -1,1 +1,1 @@
-to understand, how spring handeled, web socket communication
+nothing special, just tinkering with spring boot's websockets
